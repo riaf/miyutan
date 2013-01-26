@@ -1,0 +1,11 @@
+<?php
+
+return [
+    'amazon' => [
+        'api_key'       => '',
+        'secret'        => '',
+        'locale'        => 'JP',
+        'associate_tag' => '',
+    ],
+];
+
